@@ -1,0 +1,27 @@
+﻿<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>百度一下，你就知道！</title>
+ </head>
+ <body>
+
+ <h1>this is a headline</h1>
+
+<iframe src="demo_iframe.htm" width="350" height="200" frameborder="0"></iframe>
+<p><a href="https://baike.baidu.com/item/%E5%BC%A0%E5%9B%BD%E8%8D%A3/6804?fr=aladdin" target="iframe_a">百度都不知道</a></p>
+
+ <img src="D:/EditPlus/My Project/images/ZHANG.jpg" alt="rong" width="300" height="500"/>
+
+ <h2>Leslie is so cool!<h2>
+ <div stlye="color:#40B3DF;">so
+ <span style="background-color:#B4009E;color:#ffffff;">cool!</span>
+ </div>
+ <p stlye="font-family:verdana;font-size:150%;color:red">
+ Maybe he like <del>you</del> <ins>his cat<ins>!</p>
+ </body>
+</html>
